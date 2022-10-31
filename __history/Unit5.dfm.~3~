@@ -1,0 +1,51 @@
+object Form5: TForm5
+  Left = 0
+  Top = 0
+  Caption = 'Form5'
+  ClientHeight = 454
+  ClientWidth = 735
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Conexao: TFDConnection
+    Params.Strings = (
+      'Database=cadastro de funcion'#225'rios'
+      'User_Name=root'
+      'DriverID=MySQL')
+    Connected = True
+    Left = 224
+    Top = 192
+  end
+  object FDTable1: TFDTable
+    Active = True
+    IndexFieldNames = 'Referencia'
+    Connection = Conexao
+    TableName = '`cadastro de funcion'#225'rios`.`funcion'#225'rios`'
+    Left = 376
+    Top = 200
+  end
+  object FDTable2: TFDTable
+    Active = True
+    IndexFieldNames = 'Referencia'
+    Connection = Conexao
+    TableName = '`cadastro de funcion'#225'rios`.equipamentos'
+    Left = 456
+    Top = 200
+  end
+  object DataSource1: TDataSource
+    DataSet = FDTable1
+    Left = 376
+    Top = 296
+  end
+  object DataSource2: TDataSource
+    DataSet = FDTable2
+    Left = 456
+    Top = 288
+  end
+end

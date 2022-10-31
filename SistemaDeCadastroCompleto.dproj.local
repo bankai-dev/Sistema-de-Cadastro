@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/25 10:44:57.000.802,=C:\Users\Edu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/26 10:52:25.000.639,=C:\Users\Edu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/26 10:57:37.000.268,C:\Users\Edu\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Edu\Desktop\Sistema de Cadastro Completo\Unit1.dfm</Transaction>
+    <Transaction>2022/10/26 10:57:37.000.268,C:\Users\Edu\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Edu\Desktop\Sistema de Cadastro Completo\Unit1.pas</Transaction>
+    <Transaction>2022/10/26 10:57:51.000.267,C:\Users\Edu\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Edu\Desktop\Sistema de Cadastro Completo\SistemaDeCadastroCompleto.dproj</Transaction>
+    <Transaction>2022/10/26 10:57:57.000.945,=C:\Users\Edu\Desktop\Sistema de Cadastro Completo\Unit2.pas</Transaction>
+    <Transaction>2022/10/26 11:07:18.000.967,=C:\Users\Edu\Desktop\Sistema de Cadastro Completo\Unit3.pas</Transaction>
+    <Transaction>2022/10/26 11:07:38.000.831,=C:\Users\Edu\Desktop\Sistema de Cadastro Completo\Unit4.pas</Transaction>
+    <Transaction>2022/10/26 11:24:02.000.305,=C:\Users\Edu\Desktop\Sistema de Cadastro Completo\Unit5.pas</Transaction>
+    <Transaction>2022/10/26 11:24:15.000.369,=C:\Users\Edu\Desktop\Sistema de Cadastro Completo\Unit5.pas</Transaction>
+    <Transaction>2022/10/28 09:04:37.000.766,=C:\Users\Edu\Desktop\Sistema de Cadastro Completo\Unit6.pas</Transaction>
+  </Transactions>
+</BorlandProject>
